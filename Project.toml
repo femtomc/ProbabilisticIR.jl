@@ -1,0 +1,7 @@
+name = "ProbabilisticIR"
+uuid = "dbd30033-7593-41fb-8386-8f89f9ec05b5"
+authors = ["femtomc <mccoybecker@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+IRTools = "7869d1d1-7146-5819-86e3-90919afe41df"
